@@ -2,3 +2,4 @@ this is chat application
 emoji
 type
 cplors
+dark mode
